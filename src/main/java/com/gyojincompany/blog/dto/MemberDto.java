@@ -6,7 +6,7 @@ public class MemberDto {
 	private String memberpw;
 	private String membername;
 	private String memberage;
-	private String memberlemai;
+	private String memberemail;
 	
 	public MemberDto() {
 		super();
